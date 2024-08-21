@@ -14,13 +14,13 @@
 $perguntas = [
     "Quais são os dois primeiros nomes da apresentadora Xuxa?",
     "Qual é inseto que transmite doença de Chagas??",
-    "Qual a cor do céu em um dia ensolarado?"
+    "log 1?"
 ];
 
 $alternativas = [
     ["A) Maria das Sashas", "B) Maria de Lurdes", "C) Maria das Graças", "D) Maria dos Santos"],
     ["A) Barata", "B) Barbeiro", "C) Pulga", "D) Abelha"],
-    ["A) Azul", "B) Verde", "C) Vermelho", "D) Amarelo"]
+    ["A) 0", "B) 1", "C) 2", "D) 3"]
 ];
 
 $respostas_certas = [2, 1, 0];
